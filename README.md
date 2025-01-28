@@ -1,6 +1,6 @@
 ## Olá, sou o Nickolas Gabriel :D
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-henrique-borges/](https://www.linkedin.com/in/nickolas-gabriel-dos-santos-paula-595987311/))
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/lucas-henrique-borges/](https://www.linkedin.com/in/nickolas-gabriel-dos-santos-paula-595987311/)](https://www.linkedin.com/in/nickolas-gabriel-dos-santos-paula-595987311/))
 
 ![nickolasgabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=nickolasgabriel&show_icons=true&theme=react&title_color=00FA9A&icon_color=00FA9A)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickolasgabriel&layout=compact&hide=shell&theme=react&title_color=00FA9A&icon_color=00FA9A)
